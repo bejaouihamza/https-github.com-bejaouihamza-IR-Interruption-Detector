@@ -15,18 +15,12 @@ The circuit is entirely based on **discrete components**, including **NE555 time
 ---
 
 ## 🧩 PCB Layout
-
-_Add your PCB layout image below:_
-
 ![PCB](https://github.com/bejaouihamza/https-github.com-bejaouihamza-IR-Interruption-Detector/blob/main/Capture%20d'%C3%A9cran%202025-06-18%20144449.png?raw=true)
 
 ---
 
 ## 🧱 3D Model
-
-_Add your 3D view render here:_
-
-![3D Model](./images/3d.png)
+![3D Model](https://github.com/bejaouihamza/https-github.com-bejaouihamza-IR-Interruption-Detector/blob/main/Capture%20d'%C3%A9cran%202025-06-18%20144104.png?raw=true)
 
 ---
 
