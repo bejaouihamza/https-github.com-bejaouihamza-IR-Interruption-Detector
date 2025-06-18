@@ -10,11 +10,6 @@ The circuit is entirely based on **discrete components**, including **NE555 time
 ---
 
 ## 📷 Schematic
-
-_Add your schematic image below:_
-
-## 📷 Schematic
-
 ![Schematic](https://github.com/bejaouihamza/https-github.com-bejaouihamza-IR-Interruption-Detector/blob/main/Capture%20d'%C3%A9cran%202025-06-18%20144531.png?raw=true)
 
 ---
@@ -23,7 +18,7 @@ _Add your schematic image below:_
 
 _Add your PCB layout image below:_
 
-![PCB](./images/pcb.png)
+![PCB](https://github.com/bejaouihamza/https-github.com-bejaouihamza-IR-Interruption-Detector/blob/main/Capture%20d'%C3%A9cran%202025-06-18%20144449.png?raw=true)
 
 ---
 
