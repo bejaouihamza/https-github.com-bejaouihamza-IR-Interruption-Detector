@@ -13,7 +13,7 @@ The circuit is entirely based on **discrete components**, including **NE555 time
 
 _Add your schematic image below:_
 
-![Schematic](./images/schematic.png)
+![Schematic](Capture d'écran 2025-06-18 144531.png)
 
 ---
 
